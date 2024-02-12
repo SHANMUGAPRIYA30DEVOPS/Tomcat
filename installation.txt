@@ -1,2 +1,6 @@
 https://mithuntechnologies-devops.blogspot.com/search?q=java+installation
 https://mithuntechnologies-devops.blogspot.com/search/label/Tomcat
+Web server installation
+https://mithuntechnologies-devops.blogspot.com/search?q=nginx
+https://mithuntechnologies-devops.blogspot.com/search?q=apache+httpd
+
